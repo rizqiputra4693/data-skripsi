@@ -1,0 +1,991 @@
+Nama Siswa;Prob_Auditori;Prob_Kinestetik;Prob_Visual;Prediksi
+Gra*** Chr****** Per**** Her*****;0.0003;0.0014;0.9983;Visual
+Gra*** Chr****** Per**** Her*****;0.0013;0.0028;0.9958;Visual
+Gra*** Chr****** Per**** Her*****;0.0001;0.0;0.9999;Visual
+Gra*** Chr****** Per**** Her*****;0.0;0.0;1.0;Visual
+Gra*** Chr****** Per**** Her*****;0.0;0.0;1.0;Visual
+Hum**** Hus*** Fal**;0.0508;0.9172;0.032;Kinestetik
+Hum**** Hus*** Fal**;0.3003;0.6993;0.0004;Kinestetik
+Hum**** Hus*** Fal**;0.0757;0.0528;0.8716;Visual
+Hum**** Hus*** Fal**;0.0037;0.9658;0.0305;Kinestetik
+Hum**** Hus*** Fal**;0.0757;0.0528;0.8716;Visual
+Joa**** Sah*** Pun***;0.0084;0.9901;0.0015;Kinestetik
+Joa**** Sah*** Pun***;0.0064;0.9935;0.0001;Kinestetik
+Joa**** Sah*** Pun***;0.0054;0.0353;0.9593;Visual
+Joa**** Sah*** Pun***;0.0044;0.2715;0.7241;Visual
+Joa**** Sah*** Pun***;0.0054;0.0353;0.9593;Visual
+Jov** Zak* Pra****;0.0026;0.9974;0.0;Kinestetik
+Jov** Zak* Pra****;0.0033;0.9967;0.0;Kinestetik
+Jov** Zak* Pra****;0.0063;0.982;0.0117;Kinestetik
+Jov** Zak* Pra****;0.0192;0.7429;0.2379;Kinestetik
+Jov** Zak* Pra****;0.0393;0.9573;0.0034;Kinestetik
+Kea** Nab*** Abr****;0.0555;0.9442;0.0002;Kinestetik
+Kea** Nab*** Abr****;0.1034;0.8944;0.0022;Kinestetik
+Kea** Nab*** Abr****;0.0394;0.246;0.7145;Visual
+Kea** Nab*** Abr****;0.0005;0.8907;0.1088;Kinestetik
+Kea** Nab*** Abr****;0.0012;0.0109;0.9878;Visual
+Kha*** Azz**** Dan*** Sar****;0.0855;0.881;0.0335;Kinestetik
+Kha*** Azz**** Dan*** Sar****;0.1502;0.8347;0.0152;Kinestetik
+Kha*** Azz**** Dan*** Sar****;0.2444;0.1654;0.5902;Visual
+Kha*** Azz**** Dan*** Sar****;0.0123;0.2924;0.6953;Visual
+Kha*** Azz**** Dan*** Sar****;0.0007;0.0007;0.9986;Visual
+Kha*** Alm*** Mar**** Ram******;0.0133;0.986;0.0008;Kinestetik
+Kha*** Alm*** Mar**** Ram******;0.0168;0.9832;0.0001;Kinestetik
+Kha*** Alm*** Mar**** Ram******;0.0263;0.3513;0.6224;Visual
+Kha*** Alm*** Mar**** Ram******;0.6193;0.3576;0.0232;Auditori
+Kha*** Alm*** Mar**** Ram******;0.792;0.2029;0.0051;Auditori
+Mag****** Wes**;0.0655;0.9307;0.0038;Kinestetik
+Mag****** Wes**;0.082;0.9177;0.0003;Kinestetik
+Mag****** Wes**;0.0005;0.3825;0.6171;Visual
+Mag****** Wes**;0.0167;0.1249;0.8584;Visual
+Mag****** Wes**;0.0018;0.0138;0.9844;Visual
+Moh***** Riz** E** Wij***;0.0259;0.0774;0.8968;Visual
+Moh***** Riz** E** Wij***;0.0864;0.1395;0.7741;Visual
+Moh***** Riz** E** Wij***;0.0001;0.0;0.9999;Visual
+Moh***** Riz** E** Wij***;0.0;0.0;0.9999;Visual
+Moh***** Riz** E** Wij***;0.0;0.0005;0.9995;Visual
+Muh***** Azk* Dza**;0.0088;0.9506;0.0406;Kinestetik
+Muh***** Azk* Dza**;0.0339;0.966;0.0001;Kinestetik
+Muh***** Azk* Dza**;0.0017;0.3136;0.6847;Visual
+Muh***** Azk* Dza**;0.0165;0.3126;0.671;Visual
+Muh***** Azk* Dza**;0.0016;0.2435;0.7548;Visual
+Muh***** Fou** Fat**;0.6557;0.1762;0.1682;Auditori
+Muh***** Fou** Fat**;0.3438;0.0769;0.5793;Visual
+Muh***** Fou** Fat**;0.0492;0.0035;0.9473;Visual
+Muh***** Fou** Fat**;0.0078;0.0;0.9922;Visual
+Muh***** Fou** Fat**;0.0083;0.0001;0.9915;Visual
+Muh***** Has** Dan******;0.0267;0.9733;0.0;Kinestetik
+Muh***** Has** Dan******;0.0466;0.9529;0.0004;Kinestetik
+Muh***** Has** Dan******;0.0079;0.6744;0.3178;Kinestetik
+Muh***** Has** Dan******;0.3067;0.6387;0.0546;Kinestetik
+Muh***** Has** Dan******;0.1301;0.1953;0.6746;Visual
+Muh***** Nab** N** Has** Alk****;0.0;0.9985;0.0015;Kinestetik
+Muh***** Nab** N** Has** Alk****;0.0;0.9998;0.0002;Kinestetik
+Muh***** Nab** N** Has** Alk****;0.0;0.6303;0.3697;Kinestetik
+Muh***** Nab** N** Has** Alk****;0.0;0.006;0.994;Visual
+Muh***** Nab** N** Has** Alk****;0.0;0.3615;0.6385;Visual
+Muh***** Z** Zur* Fat*********;0.584;0.4025;0.0136;Auditori
+Muh***** Z** Zur* Fat*********;0.6593;0.3369;0.0038;Auditori
+Muh***** Z** Zur* Fat*********;0.0928;0.1283;0.7789;Visual
+Muh***** Z** Zur* Fat*********;0.2901;0.5047;0.2052;Kinestetik
+Muh***** Z** Zur* Fat*********;0.0062;0.001;0.9928;Visual
+Nab*** Alm*** Yof******;0.0411;0.9106;0.0483;Kinestetik
+Nab*** Alm*** Yof******;0.0411;0.9106;0.0483;Kinestetik
+Nab*** Alm*** Yof******;0.0004;0.0032;0.9964;Visual
+Nab*** Alm*** Yof******;0.0009;0.0109;0.9881;Visual
+Nab*** Alm*** Yof******;0.0009;0.0011;0.998;Visual
+Nab*** Ram******;0.0046;0.9952;0.0002;Kinestetik
+Nab*** Ram******;0.0038;0.996;0.0002;Kinestetik
+Nab*** Ram******;0.0108;0.9076;0.0816;Kinestetik
+Nab*** Ram******;0.003;0.6368;0.3602;Kinestetik
+Nab*** Ram******;0.0007;0.7835;0.2158;Kinestetik
+Nam** Que** Mut**** Sap*****;0.5611;0.3304;0.1085;Auditori
+Nam** Que** Mut**** Sap*****;0.8013;0.1888;0.0099;Auditori
+Nam** Que** Mut**** Sap*****;0.0166;0.1132;0.8703;Visual
+Nam** Que** Mut**** Sap*****;0.0673;0.0205;0.9122;Visual
+Nam** Que** Mut**** Sap*****;0.0046;0.0583;0.9371;Visual
+Nau*** Ath**** May**;0.425;0.5696;0.0054;Kinestetik
+Nau*** Ath**** May**;0.4809;0.5186;0.0004;Kinestetik
+Nau*** Ath**** May**;0.0024;0.1346;0.863;Visual
+Nau*** Ath**** May**;0.0046;0.0083;0.9871;Visual
+Nau*** Ath**** May**;0.1235;0.0021;0.8744;Visual
+Nau*** Iqb** Alb*******;0.1;0.8836;0.0164;Kinestetik
+Nau*** Iqb** Alb*******;0.0597;0.9369;0.0034;Kinestetik
+Nau*** Iqb** Alb*******;0.0002;0.0015;0.9984;Visual
+Nau*** Iqb** Alb*******;0.0136;0.002;0.9844;Visual
+Nau*** Iqb** Alb*******;0.008;0.221;0.771;Visual
+Rev**** Kha*** Lub**;0.1379;0.771;0.0911;Kinestetik
+Rev**** Kha*** Lub**;0.0896;0.8898;0.0206;Kinestetik
+Rev**** Kha*** Lub**;0.0267;0.0592;0.914;Visual
+Rev**** Kha*** Lub**;0.0687;0.1473;0.784;Visual
+Rev**** Kha*** Lub**;0.0273;0.3596;0.613;Visual
+Ris** Nur Mau*****;0.6288;0.3362;0.035;Auditori
+Ris** Nur Mau*****;0.6288;0.3362;0.035;Auditori
+Ris** Nur Mau*****;0.8207;0.0077;0.1716;Auditori
+Ris** Nur Mau*****;0.4002;0.0138;0.586;Visual
+Ris** Nur Mau*****;0.002;0.0055;0.9925;Visual
+Sev** Sha*** Ann***;0.8861;0.0678;0.0462;Auditori
+Sev** Sha*** Ann***;0.9672;0.0296;0.0032;Auditori
+Sev** Sha*** Ann***;0.1148;0.0203;0.8649;Visual
+Sev** Sha*** Ann***;0.0174;0.0286;0.954;Visual
+Sev** Sha*** Ann***;0.008;0.0002;0.9917;Visual
+Sha**** Man***** Put** Abi***;0.276;0.7005;0.0236;Kinestetik
+Sha**** Man***** Put** Abi***;0.418;0.5727;0.0092;Kinestetik
+Sha**** Man***** Put** Abi***;0.035;0.7648;0.2002;Kinestetik
+Sha**** Man***** Put** Abi***;0.0924;0.0022;0.9054;Visual
+Sha**** Man***** Put** Abi***;0.0033;0.0083;0.9884;Visual
+Sya***** Aly* Dew*** Mar***;0.1442;0.3771;0.4786;Visual
+Sya***** Aly* Dew*** Mar***;0.3059;0.4317;0.2623;Kinestetik
+Sya***** Aly* Dew*** Mar***;0.0;0.0;0.9999;Visual
+Sya***** Aly* Dew*** Mar***;0.0;0.0;1.0;Visual
+Sya***** Aly* Dew*** Mar***;0.0001;0.0014;0.9985;Visual
+Teg** Ang**** Ray*;0.0031;0.9968;0.0001;Kinestetik
+Teg** Ang**** Ray*;0.0018;0.9977;0.0005;Kinestetik
+Teg** Ang**** Ray*;0.0091;0.2438;0.7471;Visual
+Teg** Ang**** Ray*;0.0003;0.4099;0.5898;Visual
+Teg** Ang**** Ray*;0.0007;0.6795;0.3198;Kinestetik
+Ufa*** Nur Afi**;0.0179;0.982;0.0001;Kinestetik
+Ufa*** Nur Afi**;0.0765;0.9175;0.006;Kinestetik
+Ufa*** Nur Afi**;0.0546;0.7347;0.2108;Kinestetik
+Ufa*** Nur Afi**;0.0288;0.7703;0.2009;Kinestetik
+Ufa*** Nur Afi**;0.0074;0.8859;0.1067;Kinestetik
+Nab*** Zas*** Ain**;0.3961;0.2327;0.3713;Auditori
+Nab*** Zas*** Ain**;0.4221;0.4404;0.1375;Kinestetik
+Nab*** Zas*** Ain**;0.0003;0.0002;0.9995;Visual
+Nab*** Zas*** Ain**;0.0045;0.0001;0.9954;Visual
+Nab*** Zas*** Ain**;0.0012;0.0004;0.9984;Visual
+Arm** Bri**** Sya******;0.0456;0.9506;0.0038;Kinestetik
+Arm** Bri**** Sya******;0.0603;0.9334;0.0063;Kinestetik
+Arm** Bri**** Sya******;0.0214;0.0534;0.9252;Visual
+Arm** Bri**** Sya******;0.0214;0.0534;0.9252;Visual
+Arm** Bri**** Sya******;0.0026;0.0398;0.9576;Visual
+Ald** Raf******** Die**;0.0211;0.7452;0.2337;Kinestetik
+Ald** Raf******** Die**;0.0148;0.9282;0.0569;Kinestetik
+Ald** Raf******** Die**;0.0049;0.0658;0.9293;Visual
+Ald** Raf******** Die**;0.0002;0.0012;0.9985;Visual
+Ald** Raf******** Die**;0.0;0.0055;0.9945;Visual
+Abi*** Ram***** Ari*** Lau***;0.8933;0.1066;0.0;Auditori
+Abi*** Ram***** Ari*** Lau***;0.936;0.064;0.0;Auditori
+Abi*** Ram***** Ari*** Lau***;0.7173;0.2671;0.0156;Auditori
+Abi*** Ram***** Ari*** Lau***;0.9987;0.0012;0.0001;Auditori
+Abi*** Ram***** Ari*** Lau***;0.9125;0.0572;0.0303;Auditori
+Adh***** Nev** Ahz* Put**;0.0028;0.2534;0.7438;Visual
+Adh***** Nev** Ahz* Put**;0.0175;0.9152;0.0673;Kinestetik
+Adh***** Nev** Ahz* Put**;0.0;0.0;1.0;Visual
+Adh***** Nev** Ahz* Put**;0.0015;0.0141;0.9843;Visual
+Adh***** Nev** Ahz* Put**;0.0;0.2353;0.7647;Visual
+Adi*** Riz** Pra****;0.0476;0.0301;0.9223;Visual
+Adi*** Riz** Pra****;0.0476;0.0301;0.9223;Visual
+Adi*** Riz** Pra****;0.0;0.0;1.0;Visual
+Adi*** Riz** Pra****;0.0005;0.0;0.9995;Visual
+Adi*** Riz** Pra****;0.001;0.0002;0.9988;Visual
+Adr*** Run*** Abq***;0.0119;0.4311;0.557;Visual
+Adr*** Run*** Abq***;0.2808;0.7145;0.0047;Kinestetik
+Adr*** Run*** Abq***;0.02;0.205;0.775;Visual
+Adr*** Run*** Abq***;0.02;0.205;0.775;Visual
+Adr*** Run*** Abq***;0.0057;0.0571;0.9372;Visual
+Afi** Sah** Mah***;0.1419;0.774;0.0841;Kinestetik
+Afi** Sah** Mah***;0.1875;0.8059;0.0066;Kinestetik
+Afi** Sah** Mah***;0.0018;0.4996;0.4986;Kinestetik
+Afi** Sah** Mah***;0.0791;0.0018;0.9192;Visual
+Afi** Sah** Mah***;0.0003;0.0006;0.9991;Visual
+Agn*** Bel** Cho*******;0.2138;0.4479;0.3383;Kinestetik
+Agn*** Bel** Cho*******;0.3642;0.6015;0.0343;Kinestetik
+Agn*** Bel** Cho*******;0.0003;0.0034;0.9964;Visual
+Agn*** Bel** Cho*******;0.0001;0.0008;0.9992;Visual
+Agn*** Bel** Cho*******;0.0007;0.0008;0.9985;Visual
+Ain**** Fat************;0.0156;0.7545;0.2299;Kinestetik
+Ain**** Fat************;0.0736;0.9237;0.0027;Kinestetik
+Ain**** Fat************;0.0003;0.1482;0.8515;Visual
+Ain**** Fat************;0.0004;0.005;0.9946;Visual
+Ain**** Fat************;0.0004;0.005;0.9946;Visual
+Ais*** Nad** Akh***;0.5551;0.4379;0.0069;Auditori
+Ais*** Nad** Akh***;0.761;0.2364;0.0025;Auditori
+Ais*** Nad** Akh***;0.4162;0.0286;0.5552;Visual
+Ais*** Nad** Akh***;0.0082;0.0035;0.9883;Visual
+Ais*** Nad** Akh***;0.0085;0.0348;0.9566;Visual
+Ais*** Nur Fas*** Kho********;0.0949;0.8509;0.0543;Kinestetik
+Ais*** Nur Fas*** Kho********;0.016;0.9777;0.0063;Kinestetik
+Ais*** Nur Fas*** Kho********;0.0001;0.0226;0.9774;Visual
+Ais*** Nur Fas*** Kho********;0.0034;0.3612;0.6354;Visual
+Ais*** Nur Fas*** Kho********;0.0133;0.0106;0.9761;Visual
+Anj*** Sha**** Hum****;0.365;0.5557;0.0793;Kinestetik
+Anj*** Sha**** Hum****;0.365;0.5557;0.0793;Kinestetik
+Anj*** Sha**** Hum****;0.102;0.0403;0.8577;Visual
+Anj*** Sha**** Hum****;0.1469;0.0144;0.8387;Visual
+Anj*** Sha**** Hum****;0.002;0.0175;0.9805;Visual
+Arj*** Abr**** Mub****;0.1501;0.7183;0.1315;Kinestetik
+Arj*** Abr**** Mub****;0.5365;0.4168;0.0466;Auditori
+Arj*** Abr**** Mub****;0.1743;0.3577;0.468;Visual
+Arj*** Abr**** Mub****;0.0124;0.0007;0.9869;Visual
+Arj*** Abr**** Mub****;0.027;0.0034;0.9696;Visual
+Ath*** Mah****** Dwi H;0.1996;0.1734;0.627;Visual
+Ath*** Mah****** Dwi H;0.8582;0.1404;0.0014;Auditori
+Ath*** Mah****** Dwi H;0.0489;0.3779;0.5732;Visual
+Ath*** Mah****** Dwi H;0.016;0.0001;0.984;Visual
+Ath*** Mah****** Dwi H;0.0021;0.0004;0.9975;Visual
+Azz* Nab*** Yus**;0.9524;0.0228;0.0248;Auditori
+Azz* Nab*** Yus**;0.3017;0.0096;0.6887;Visual
+Azz* Nab*** Yus**;0.0002;0.0001;0.9997;Visual
+Azz* Nab*** Yus**;0.0023;0.0001;0.9977;Visual
+Azz* Nab*** Yus**;0.0009;0.0002;0.9989;Visual
+Azz**** Qur********** Fah****;0.0503;0.9044;0.0453;Kinestetik
+Azz**** Qur********** Fah****;0.0914;0.8873;0.0213;Kinestetik
+Azz**** Qur********** Fah****;0.0047;0.8903;0.105;Kinestetik
+Azz**** Qur********** Fah****;0.0387;0.0449;0.9165;Visual
+Azz**** Qur********** Fah****;0.0058;0.2404;0.7539;Visual
+Bis** Mau**** Sap****;0.0;1.0;0.0;Kinestetik
+Bis** Mau**** Sap****;0.0;1.0;0.0;Kinestetik
+Bis** Mau**** Sap****;0.0;0.9999;0.0001;Kinestetik
+Bis** Mau**** Sap****;0.0004;0.9995;0.0;Kinestetik
+Bis** Mau**** Sap****;0.0;0.9999;0.0001;Kinestetik
+Bra**** Her**** A/B***;0.0007;0.9983;0.001;Kinestetik
+Bra**** Her**** A/B***;0.0001;0.9997;0.0001;Kinestetik
+Bra**** Her**** A/B***;0.0002;0.028;0.9718;Visual
+Bra**** Her**** A/B***;0.0002;0.028;0.9718;Visual
+Bra**** Her**** A/B***;0.0002;0.9996;0.0002;Kinestetik
+Cal*** Pra***** Tri* Efe***;0.0046;0.1316;0.8638;Visual
+Cal*** Pra***** Tri* Efe***;0.2458;0.4605;0.2937;Kinestetik
+Cal*** Pra***** Tri* Efe***;0.0009;0.0001;0.999;Visual
+Cal*** Pra***** Tri* Efe***;0.0001;0.0117;0.9882;Visual
+Cal*** Pra***** Tri* Efe***;0.0002;0.0004;0.9993;Visual
+Dia**** Gea Pra********;0.0787;0.915;0.0063;Kinestetik
+Dia**** Gea Pra********;0.1371;0.86;0.0028;Kinestetik
+Dia**** Gea Pra********;0.0013;0.0081;0.9906;Visual
+Dia**** Gea Pra********;0.2915;0.4748;0.2337;Kinestetik
+Dia**** Gea Pra********;0.7437;0.016;0.2404;Auditori
+Dza** Aqe** Tsa** Ath***;0.6771;0.261;0.062;Auditori
+Dza** Aqe** Tsa** Ath***;0.2063;0.2101;0.5835;Visual
+Dza** Aqe** Tsa** Ath***;0.0102;0.007;0.9828;Visual
+Dza** Aqe** Tsa** Ath***;0.3319;0.1237;0.5444;Visual
+Dza** Aqe** Tsa** Ath***;0.1469;0.0003;0.8528;Visual
+Dzu****** Nur***** Her********;0.1459;0.7423;0.1118;Kinestetik
+Dzu****** Nur***** Her********;0.1757;0.7352;0.0891;Kinestetik
+Dzu****** Nur***** Her********;0.0087;0.0142;0.977;Visual
+Dzu****** Nur***** Her********;0.0032;0.0418;0.955;Visual
+Dzu****** Nur***** Her********;0.0036;0.0583;0.9381;Visual
+Fan** Adi** Ram******;0.0102;0.9879;0.0019;Kinestetik
+Fan** Adi** Ram******;0.0058;0.9938;0.0004;Kinestetik
+Fan** Adi** Ram******;0.1448;0.0951;0.7601;Visual
+Fan** Adi** Ram******;0.0004;0.8905;0.1091;Kinestetik
+Fan** Adi** Ram******;0.0005;0.0285;0.9709;Visual
+F. Ayu****** Nar****** Hai**;0.4145;0.4102;0.1753;Auditori
+F. Ayu****** Nar****** Hai**;0.3389;0.1069;0.5542;Visual
+F. Ayu****** Nar****** Hai**;0.0169;0.0002;0.983;Visual
+F. Ayu****** Nar****** Hai**;0.0002;0.0017;0.9981;Visual
+F. Ayu****** Nar****** Hai**;0.2517;0.0315;0.7168;Visual
+Fat**** Uzm* Aza***;0.2761;0.2989;0.425;Visual
+Fat**** Uzm* Aza***;0.5045;0.2947;0.2007;Auditori
+Fat**** Uzm* Aza***;0.0109;0.0005;0.9886;Visual
+Fat**** Uzm* Aza***;0.0056;0.0001;0.9943;Visual
+Fat**** Uzm* Aza***;0.0002;0.0002;0.9996;Visual
+Fat***** Uzm* Ars****;0.1478;0.7553;0.0968;Kinestetik
+Fat***** Uzm* Ars****;0.4011;0.5955;0.0034;Kinestetik
+Fat***** Uzm* Ars****;0.0099;0.1796;0.8106;Visual
+Fat***** Uzm* Ars****;0.0016;0.0004;0.998;Visual
+Fat***** Uzm* Ars****;0.0002;0.0004;0.9994;Visual
+Fay** Put** Ama*** Hus**;0.0689;0.3336;0.5975;Visual
+Fay** Put** Ama*** Hus**;0.1876;0.7158;0.0967;Kinestetik
+Fay** Put** Ama*** Hus**;0.0;0.0002;0.9998;Visual
+Fay** Put** Ama*** Hus**;0.0001;0.0;0.9998;Visual
+Fay** Put** Ama*** Hus**;0.0001;0.0003;0.9995;Visual
+Ech* Cal**** Sha****;0.0391;0.9558;0.0051;Kinestetik
+Ech* Cal**** Sha****;0.0433;0.9546;0.0021;Kinestetik
+Ech* Cal**** Sha****;0.0023;0.3233;0.6744;Visual
+Ech* Cal**** Sha****;0.0008;0.0106;0.9887;Visual
+Ech* Cal**** Sha****;0.0031;0.0311;0.9658;Visual
+Fak*** Rak** Sya** Akb**;0.6604;0.3264;0.0132;Auditori
+Fak*** Rak** Sya** Akb**;0.5624;0.3828;0.0548;Auditori
+Fak*** Rak** Sya** Akb**;0.005;0.0245;0.9706;Visual
+Fak*** Rak** Sya** Akb**;0.0012;0.0084;0.9904;Visual
+Fak*** Rak** Sya** Akb**;0.0044;0.0174;0.9782;Visual
+Har** Irw** Arr*****;0.027;0.9714;0.0016;Kinestetik
+Har** Irw** Arr*****;0.027;0.9714;0.0016;Kinestetik
+Har** Irw** Arr*****;0.0044;0.0164;0.9792;Visual
+Har** Irw** Arr*****;0.2049;0.7652;0.0299;Kinestetik
+Har** Irw** Arr*****;0.0029;0.6049;0.3922;Kinestetik
+M. Zai*** Al-**** Fir****;0.2397;0.7463;0.014;Kinestetik
+M. Zai*** Al-**** Fir****;0.5786;0.4161;0.0052;Auditori
+M. Zai*** Al-**** Fir****;0.1344;0.0053;0.8604;Visual
+M. Zai*** Al-**** Fir****;0.0105;0.0097;0.9798;Visual
+M. Zai*** Al-**** Fir****;0.5122;0.0517;0.4361;Auditori
+I Mad* Ngu*** Abh***** Can*** Dip*;0.5312;0.4523;0.0165;Auditori
+I Mad* Ngu*** Abh***** Can*** Dip*;0.3767;0.5371;0.0862;Kinestetik
+I Mad* Ngu*** Abh***** Can*** Dip*;0.8729;0.0019;0.1252;Auditori
+I Mad* Ngu*** Abh***** Can*** Dip*;0.8662;0.0181;0.1157;Auditori
+I Mad* Ngu*** Abh***** Can*** Dip*;0.0179;0.2439;0.7382;Visual
+Abr**** Har*** Lab** Mua****;0.0;0.0;1.0;Visual
+Abr**** Har*** Lab** Mua****;0.0;0.0;1.0;Visual
+Abr**** Har*** Lab** Mua****;0.0;0.0;1.0;Visual
+Abr**** Har*** Lab** Mua****;0.0;0.0;1.0;Visual
+Abr**** Har*** Lab** Mua****;0.0;0.0;1.0;Visual
+Adi*** Put** Pra*****;0.0;0.0;1.0;Visual
+Adi*** Put** Pra*****;0.0;0.0;1.0;Visual
+Adi*** Put** Pra*****;0.0;0.0;1.0;Visual
+Adi*** Put** Pra*****;0.0;0.0;1.0;Visual
+Adi*** Put** Pra*****;0.0;0.0;1.0;Visual
+Aga* Key**** Abd***** Pra****;0.0;0.0;1.0;Visual
+Aga* Key**** Abd***** Pra****;0.0;0.0003;0.9997;Visual
+Aga* Key**** Abd***** Pra****;0.0;0.0;1.0;Visual
+Aga* Key**** Abd***** Pra****;0.0;0.0;1.0;Visual
+Aga* Key**** Abd***** Pra****;0.0001;0.0;0.9999;Visual
+Ahm** Taq******* Cha****;0.0;0.0;1.0;Visual
+Ahm** Taq******* Cha****;0.0;0.0;1.0;Visual
+Ahm** Taq******* Cha****;0.0;0.0;1.0;Visual
+Ahm** Taq******* Cha****;0.0;0.0;1.0;Visual
+Ahm** Taq******* Cha****;0.0;0.0;1.0;Visual
+Ahm** Zaq** Nur Roh***;0.0;0.0;1.0;Visual
+Ahm** Zaq** Nur Roh***;0.0;0.0;1.0;Visual
+Ahm** Zaq** Nur Roh***;0.0;0.0;1.0;Visual
+Ahm** Zaq** Nur Roh***;0.0;0.0;1.0;Visual
+Ahm** Zaq** Nur Roh***;0.0;0.0;1.0;Visual
+Ali*** Nau***** Izz*** Mil***;0.0;0.0;1.0;Visual
+Ali*** Nau***** Izz*** Mil***;0.0;0.0;1.0;Visual
+Ali*** Nau***** Izz*** Mil***;0.0;0.0;1.0;Visual
+Ali*** Nau***** Izz*** Mil***;0.0;0.0;1.0;Visual
+Ali*** Nau***** Izz*** Mil***;0.0;0.0;1.0;Visual
+Alr* Kha******** Tas*********;0.0;0.0;1.0;Visual
+Alr* Kha******** Tas*********;0.0;0.0;1.0;Visual
+Alr* Kha******** Tas*********;0.0;0.0;1.0;Visual
+Alr* Kha******** Tas*********;0.0;0.0;1.0;Visual
+Alr* Kha******** Tas*********;0.0012;0.0001;0.9987;Visual
+Aly** Sha*** Pri****;0.0;0.0;1.0;Visual
+Aly** Sha*** Pri****;0.0;0.0;1.0;Visual
+Aly** Sha*** Pri****;0.0;0.0;1.0;Visual
+Aly** Sha*** Pri****;0.0;0.0;1.0;Visual
+Aly** Sha*** Pri****;0.0;0.0;1.0;Visual
+Ama*** Fit*** Adh***;0.0;0.0;1.0;Visual
+Ama*** Fit*** Adh***;0.0;0.0;1.0;Visual
+Ama*** Fit*** Adh***;0.0;0.0;1.0;Visual
+Ama*** Fit*** Adh***;0.0;0.0;1.0;Visual
+Ama*** Fit*** Adh***;0.0;0.0;1.0;Visual
+And*** Car**** Azz****;0.0;0.0;1.0;Visual
+And*** Car**** Azz****;0.0;0.0;1.0;Visual
+And*** Car**** Azz****;0.0;0.0;1.0;Visual
+And*** Car**** Azz****;0.0;0.0;1.0;Visual
+And*** Car**** Azz****;0.0;0.0;1.0;Visual
+Ani** Has*** Bas****;0.0;0.0;1.0;Visual
+Ani** Has*** Bas****;0.0002;0.0;0.9998;Visual
+Ani** Has*** Bas****;0.0;0.0;1.0;Visual
+Ani** Has*** Bas****;0.0;0.0001;0.9999;Visual
+Ani** Has*** Bas****;0.0;0.0;1.0;Visual
+Apr**** Kus*** Dev*;0.0;0.0;1.0;Visual
+Apr**** Kus*** Dev*;0.0;0.0;1.0;Visual
+Apr**** Kus*** Dev*;0.0;0.0;1.0;Visual
+Apr**** Kus*** Dev*;0.0;0.0;1.0;Visual
+Apr**** Kus*** Dev*;0.0;0.0;1.0;Visual
+Ars* Nar***** Ari******;0.0;0.0;1.0;Visual
+Ars* Nar***** Ari******;0.0;0.0;1.0;Visual
+Ars* Nar***** Ari******;0.0;0.0;1.0;Visual
+Ars* Nar***** Ari******;0.0;0.0;1.0;Visual
+Ars* Nar***** Ari******;0.0;0.0;1.0;Visual
+Asy*** Rah** Wij***;0.0;0.0;1.0;Visual
+Asy*** Rah** Wij***;0.0;0.0;1.0;Visual
+Asy*** Rah** Wij***;0.0;0.0;1.0;Visual
+Asy*** Rah** Wij***;0.0002;0.0;0.9998;Visual
+Asy*** Rah** Wij***;0.0;0.0;1.0;Visual
+Ays** Zha**** Azn**;0.0;0.0;1.0;Visual
+Ays** Zha**** Azn**;0.0003;0.0584;0.9413;Visual
+Ays** Zha**** Azn**;0.0;0.0;1.0;Visual
+Ays** Zha**** Azn**;0.0002;0.0;0.9998;Visual
+Ays** Zha**** Azn**;0.0;0.0;1.0;Visual
+Aza*** Kin*** Put** Pra**;0.0;0.0;1.0;Visual
+Aza*** Kin*** Put** Pra**;0.0;0.0;1.0;Visual
+Aza*** Kin*** Put** Pra**;0.0;0.0;1.0;Visual
+Aza*** Kin*** Put** Pra**;0.0;0.0;1.0;Visual
+Aza*** Kin*** Put** Pra**;0.0002;0.0;0.9998;Visual
+Azk* Aqi** Arg**** Yud**;0.0;0.0;1.0;Visual
+Azk* Aqi** Arg**** Yud**;0.0;0.0;1.0;Visual
+Azk* Aqi** Arg**** Yud**;0.0;0.0;1.0;Visual
+Azk* Aqi** Arg**** Yud**;0.0;0.0;1.0;Visual
+Azk* Aqi** Arg**** Yud**;0.0;0.0;1.0;Visual
+Cec**** Azz****;0.0;0.0001;0.9998;Visual
+Cec**** Azz****;0.0;0.0001;0.9999;Visual
+Cec**** Azz****;0.0;0.0;1.0;Visual
+Cec**** Azz****;0.0;0.0013;0.9987;Visual
+Cec**** Azz****;0.0;0.0;1.0;Visual
+Cit** Sep***** Les****;0.0;0.0;1.0;Visual
+Cit** Sep***** Les****;0.0;0.0;1.0;Visual
+Cit** Sep***** Les****;0.0;0.0;1.0;Visual
+Cit** Sep***** Les****;0.0;0.0;1.0;Visual
+Cit** Sep***** Les****;0.0;0.0;1.0;Visual
+Dza***** Tal*** Sak**;0.0;0.0;1.0;Visual
+Dza***** Tal*** Sak**;0.0;0.0;1.0;Visual
+Dza***** Tal*** Sak**;0.0;0.0;1.0;Visual
+Dza***** Tal*** Sak**;0.0001;0.0;0.9999;Visual
+Dza***** Tal*** Sak**;0.0;0.0;0.9999;Visual
+Fae*** Aul** Zah**;0.0;0.0;1.0;Visual
+Fae*** Aul** Zah**;0.0004;0.0001;0.9996;Visual
+Fae*** Aul** Zah**;0.0;0.0;1.0;Visual
+Fae*** Aul** Zah**;0.0;0.0;1.0;Visual
+Fae*** Aul** Zah**;0.0001;0.0;0.9999;Visual
+Faf*** Rif** Adz***;0.0;0.0;1.0;Visual
+Faf*** Rif** Adz***;0.0;0.0;1.0;Visual
+Faf*** Rif** Adz***;0.0007;0.0;0.9992;Visual
+Faf*** Rif** Adz***;0.0001;0.0;0.9999;Visual
+Faf*** Rif** Adz***;0.0001;0.0;0.9999;Visual
+Fat** Abh***** Al Far****;0.0001;0.0;0.9999;Visual
+Fat** Abh***** Al Far****;0.0;0.0;1.0;Visual
+Fat** Abh***** Al Far****;0.0;0.0;1.0;Visual
+Fat** Abh***** Al Far****;0.0;0.0;1.0;Visual
+Fat** Abh***** Al Far****;0.0;0.0;1.0;Visual
+Fio** Dew* Feb*****;0.0;0.0;1.0;Visual
+Fio** Dew* Feb*****;0.0001;0.0;0.9999;Visual
+Fio** Dew* Feb*****;0.0;0.0;1.0;Visual
+Fio** Dew* Feb*****;0.0;0.0;1.0;Visual
+Fio** Dew* Feb*****;0.0;0.0;1.0;Visual
+Gla*** Agu**** Mau** Ram******;0.0;0.0;1.0;Visual
+Gla*** Agu**** Mau** Ram******;0.0;0.0;1.0;Visual
+Gla*** Agu**** Mau** Ram******;0.004;0.0;0.996;Visual
+Gla*** Agu**** Mau** Ram******;0.0009;0.0;0.9991;Visual
+Gla*** Agu**** Mau** Ram******;0.0001;0.0;0.9999;Visual
+Hen** Cit** Kar**** Dwi Put**;0.0;0.0;1.0;Visual
+Hen** Cit** Kar**** Dwi Put**;0.0;0.0;1.0;Visual
+Hen** Cit** Kar**** Dwi Put**;0.0;0.0002;0.9998;Visual
+Hen** Cit** Kar**** Dwi Put**;0.0;0.0;1.0;Visual
+Hen** Cit** Kar**** Dwi Put**;0.0;0.0;1.0;Visual
+Irf** Yus***;0.0;0.0;1.0;Visual
+Irf** Yus***;0.0;0.0;1.0;Visual
+Irf** Yus***;0.0;0.0;1.0;Visual
+Irf** Yus***;0.0;0.0585;0.9415;Visual
+Irf** Yus***;0.0;0.0;1.0;Visual
+Ana** Nur Sho******;0.0;0.0;1.0;Visual
+Ana** Nur Sho******;0.0;0.0;1.0;Visual
+Ana** Nur Sho******;0.0;0.0;1.0;Visual
+Ana** Nur Sho******;0.0;0.0;1.0;Visual
+Ana** Nur Sho******;0.0;0.0;1.0;Visual
+Kei*** Kir*** Az Zah**;0.0;0.0;1.0;Visual
+Kei*** Kir*** Az Zah**;0.0;0.0;1.0;Visual
+Kei*** Kir*** Az Zah**;0.0;0.0;1.0;Visual
+Kei*** Kir*** Az Zah**;0.0;0.0;1.0;Visual
+Kei*** Kir*** Az Zah**;0.0;0.0;1.0;Visual
+Kha******* Meu*** Ayu***;0.0;0.0;1.0;Visual
+Kha******* Meu*** Ayu***;0.0;0.0;1.0;Visual
+Kha******* Meu*** Ayu***;0.0;0.0;1.0;Visual
+Kha******* Meu*** Ayu***;0.0;0.0;1.0;Visual
+Kha******* Meu*** Ayu***;0.0;0.0;1.0;Visual
+Kha*** Sya** Az Zah**;0.0012;0.0;0.9988;Visual
+Kha*** Sya** Az Zah**;0.0;0.0;1.0;Visual
+Kha*** Sya** Az Zah**;0.0;0.0;1.0;Visual
+Kha*** Sya** Az Zah**;0.0003;0.0;0.9997;Visual
+Kha*** Sya** Az Zah**;0.0;0.0;1.0;Visual
+Kho*********;0.0;0.0;1.0;Visual
+Kho*********;0.0;0.0;1.0;Visual
+Kho*********;0.0;0.0;1.0;Visual
+Kho*********;0.0;0.0;1.0;Visual
+Kho*********;0.0;0.0;1.0;Visual
+Lan* Rus*** Bas****;0.0;0.0;1.0;Visual
+Lan* Rus*** Bas****;0.0;0.0;1.0;Visual
+Lan* Rus*** Bas****;0.0001;0.0;0.9999;Visual
+Lan* Rus*** Bas****;0.0;0.0;1.0;Visual
+Lan* Rus*** Bas****;0.0;0.0;1.0;Visual
+Mal* Ath*** Ana***** Val***;0.0;0.0;1.0;Visual
+Mal* Ath*** Ana***** Val***;0.0;0.0;1.0;Visual
+Mal* Ath*** Ana***** Val***;0.0;0.0;1.0;Visual
+Mal* Ath*** Ana***** Val***;0.0;0.0;1.0;Visual
+Mal* Ath*** Ana***** Val***;0.0;0.0;1.0;Visual
+Mar**** Zah*** Lul****** Mur*******;0.0;0.0;1.0;Visual
+Mar**** Zah*** Lul****** Mur*******;0.0;0.0;1.0;Visual
+Mar**** Zah*** Lul****** Mur*******;0.0;0.0;1.0;Visual
+Mar**** Zah*** Lul****** Mur*******;0.0;0.0;1.0;Visual
+Mar**** Zah*** Lul****** Mur*******;0.0;0.0;1.0;Visual
+Mir** Daf** Wah** San****;0.0009;0.0;0.9991;Visual
+Mir** Daf** Wah** San****;0.0;0.0;1.0;Visual
+Mir** Daf** Wah** San****;0.0;0.0;0.9999;Visual
+Mir** Daf** Wah** San****;0.0;0.0002;0.9998;Visual
+Mir** Daf** Wah** San****;0.0001;0.0001;0.9998;Visual
+Muh***** Adr*** Dew***** Set*****;0.0;0.0;1.0;Visual
+Muh***** Adr*** Dew***** Set*****;0.0;0.0;1.0;Visual
+Muh***** Adr*** Dew***** Set*****;0.0;0.0;1.0;Visual
+Muh***** Adr*** Dew***** Set*****;0.0;0.0;1.0;Visual
+Muh***** Adr*** Dew***** Set*****;0.0;0.0;1.0;Visual
+Muh***** Dav** Zai**** Neh**********;0.0001;0.0;0.9999;Visual
+Muh***** Dav** Zai**** Neh**********;0.0;0.0;1.0;Visual
+Muh***** Dav** Zai**** Neh**********;0.0;0.0;1.0;Visual
+Muh***** Dav** Zai**** Neh**********;0.0;0.0;1.0;Visual
+Muh***** Dav** Zai**** Neh**********;0.0002;0.0;0.9998;Visual
+Muh***** Ray*** Ard****;0.0;0.0;1.0;Visual
+Muh***** Ray*** Ard****;0.0;0.0;1.0;Visual
+Muh***** Ray*** Ard****;0.0;0.0;1.0;Visual
+Muh***** Ray*** Ard****;0.0;0.0;1.0;Visual
+Muh***** Ray*** Ard****;0.0;0.0;1.0;Visual
+Muh***** Yus** Zha**** Aqi**;0.0;0.0;1.0;Visual
+Muh***** Yus** Zha**** Aqi**;0.0;0.0;1.0;Visual
+Muh***** Yus** Zha**** Aqi**;0.0;0.0;1.0;Visual
+Muh***** Yus** Zha**** Aqi**;0.0;0.0;1.0;Visual
+Muh***** Yus** Zha**** Aqi**;0.0;0.0;1.0;Visual
+Nau*** Ani**** Ray**;0.0;0.0;1.0;Visual
+Nau*** Ani**** Ray**;0.0002;0.0;0.9998;Visual
+Nau*** Ani**** Ray**;0.0001;0.0;0.9999;Visual
+Nau*** Ani**** Ray**;0.0002;0.0;0.9998;Visual
+Nau*** Ani**** Ray**;0.0001;0.0;0.9999;Visual
+Nau*** Imr** Ros*******;0.0;0.0;1.0;Visual
+Nau*** Imr** Ros*******;0.0;0.0;1.0;Visual
+Nau*** Imr** Ros*******;0.0;0.0;1.0;Visual
+Nau*** Imr** Ros*******;0.0001;0.0;0.9999;Visual
+Nau*** Imr** Ros*******;0.0;0.0;1.0;Visual
+Rei**** Pra****** Har******;0.0022;0.0001;0.9978;Visual
+Rei**** Pra****** Har******;0.0;0.0003;0.9997;Visual
+Rei**** Pra****** Har******;0.0001;0.0;0.9999;Visual
+Rei**** Pra****** Har******;0.0;0.0;1.0;Visual
+Rei**** Pra****** Har******;0.0;0.0;1.0;Visual
+Sai****** Dza** Yus**;0.0;0.0;1.0;Visual
+Sai****** Dza** Yus**;0.0;0.0;1.0;Visual
+Sai****** Dza** Yus**;0.0;0.0;1.0;Visual
+Sai****** Dza** Yus**;0.0;0.0;1.0;Visual
+Sai****** Dza** Yus**;0.0;0.0;1.0;Visual
+Sha****** Sal** Ass*******;0.0;0.0;1.0;Visual
+Sha****** Sal** Ass*******;0.0;0.0;1.0;Visual
+Sha****** Sal** Ass*******;0.0;0.0;1.0;Visual
+Sha****** Sal** Ass*******;0.0;0.0;1.0;Visual
+Sha****** Sal** Ass*******;0.0;0.0001;0.9999;Visual
+Sya**** Muh***** Taj*****;0.0;0.0;1.0;Visual
+Sya**** Muh***** Taj*****;0.0;0.0006;0.9994;Visual
+Sya**** Muh***** Taj*****;0.0;0.0;1.0;Visual
+Sya**** Muh***** Taj*****;0.0;0.0;1.0;Visual
+Sya**** Muh***** Taj*****;0.0;0.0;1.0;Visual
+Vio** Ain** Nis**;0.0;0.0003;0.9997;Visual
+Vio** Ain** Nis**;0.0;0.0009;0.9991;Visual
+Vio** Ain** Nis**;0.0;0.0015;0.9985;Visual
+Vio** Ain** Nis**;0.0;0.0;1.0;Visual
+Vio** Ain** Nis**;0.0;0.0;1.0;Visual
+Vir***** Adi***** Put** Nug****;0.0;0.0;1.0;Visual
+Vir***** Adi***** Put** Nug****;0.0;0.0;1.0;Visual
+Vir***** Adi***** Put** Nug****;0.0;0.0;1.0;Visual
+Vir***** Adi***** Put** Nug****;0.0;0.0;1.0;Visual
+Vir***** Adi***** Put** Nug****;0.0;0.0;1.0;Visual
+Yua Tsa** Azk*** Sak**;0.0159;0.0002;0.9839;Visual
+Yua Tsa** Azk*** Sak**;0.0005;0.0;0.9995;Visual
+Yua Tsa** Azk*** Sak**;0.0027;0.0;0.9973;Visual
+Yua Tsa** Azk*** Sak**;0.0013;0.0;0.9987;Visual
+Yua Tsa** Azk*** Sak**;0.0001;0.0;0.9999;Visual
+Zaf*** Agh* Alk******;0.0;0.0;1.0;Visual
+Zaf*** Agh* Alk******;0.0;0.0;1.0;Visual
+Zaf*** Agh* Alk******;0.0;0.0;1.0;Visual
+Zaf*** Agh* Alk******;0.0;0.0;1.0;Visual
+Zaf*** Agh* Alk******;0.0;0.0;1.0;Visual
+Zak* Far** Nef***;0.0;0.0;1.0;Visual
+Zak* Far** Nef***;0.0;0.0;1.0;Visual
+Zak* Far** Nef***;0.0;0.0;1.0;Visual
+Zak* Far** Nef***;0.0;0.0;1.0;Visual
+Zak* Far** Nef***;0.0;0.0;1.0;Visual
+Zan*** Roz************;0.0;0.0;1.0;Visual
+Zan*** Roz************;0.0;0.0;1.0;Visual
+Zan*** Roz************;0.0;0.0;1.0;Visual
+Zan*** Roz************;0.0;0.0;1.0;Visual
+Zan*** Roz************;0.0;0.0;1.0;Visual
+Alz** Jav******* Wib***;0.0;0.0;1.0;Visual
+Alz** Jav******* Wib***;0.0;0.0;1.0;Visual
+Alz** Jav******* Wib***;0.0;0.0;1.0;Visual
+Alz** Jav******* Wib***;0.0;0.0;1.0;Visual
+Alz** Jav******* Wib***;0.0;0.0;1.0;Visual
+Lat**** Azz**** Ram******;0.0;0.0;1.0;Visual
+Lat**** Azz**** Ram******;0.0001;0.0;0.9999;Visual
+Lat**** Azz**** Ram******;0.0;0.0;1.0;Visual
+Lat**** Azz**** Ram******;0.0;0.0;1.0;Visual
+Lat**** Azz**** Ram******;0.0;0.0;1.0;Visual
+Git* Ayu Ari** P.;0.0054;0.0001;0.9945;Visual
+Git* Ayu Ari** P.;0.0005;0.0;0.9995;Visual
+Git* Ayu Ari** P.;0.0044;0.002;0.9936;Visual
+Git* Ayu Ari** P.;0.0104;0.0;0.9896;Visual
+Git* Ayu Ari** P.;0.0;0.0;1.0;Visual
+Muh**** Arf**** Uma*;0.4519;0.0002;0.5479;Visual
+Muh**** Arf**** Uma*;0.1054;0.0002;0.8944;Visual
+Muh**** Arf**** Uma*;0.2767;0.0102;0.7131;Visual
+Muh**** Arf**** Uma*;0.0034;0.0;0.9966;Visual
+Muh**** Arf**** Uma*;0.0006;0.0006;0.9989;Visual
+Put** Set** Rah***;0.0005;0.0001;0.9994;Visual
+Put** Set** Rah***;0.0022;0.0028;0.995;Visual
+Put** Set** Rah***;0.0005;0.0009;0.9985;Visual
+Put** Set** Rah***;0.0001;0.0001;0.9999;Visual
+Put** Set** Rah***;0.0003;0.0245;0.9752;Visual
+Far*** Zul***** Put**;0.9072;0.0013;0.0915;Auditori
+Far*** Zul***** Put**;0.9989;0.0008;0.0003;Auditori
+Far*** Zul***** Put**;0.996;0.0012;0.0029;Auditori
+Far*** Zul***** Put**;0.9968;0.0001;0.0031;Auditori
+Far*** Zul***** Put**;0.9453;0.0397;0.0151;Auditori
+Moc***** Hab** Lat**** Sol**;0.0024;0.0;0.9975;Visual
+Moc***** Hab** Lat**** Sol**;0.0072;0.0182;0.9745;Visual
+Moc***** Hab** Lat**** Sol**;0.0;0.0;0.9999;Visual
+Moc***** Hab** Lat**** Sol**;0.0189;0.0009;0.9802;Visual
+Moc***** Hab** Lat**** Sol**;0.0005;0.002;0.9975;Visual
+Muh***** Yus** Him****;0.0263;0.0;0.9737;Visual
+Muh***** Yus** Him****;0.0074;0.0001;0.9925;Visual
+Muh***** Yus** Him****;0.0139;0.0003;0.9858;Visual
+Muh***** Yus** Him****;0.0003;0.0;0.9997;Visual
+Muh***** Yus** Him****;0.0069;0.0;0.9931;Visual
+Ris* Aul** Put**;0.0;1.0;0.0;Kinestetik
+Ris* Aul** Put**;0.0;1.0;0.0;Kinestetik
+Ris* Aul** Put**;0.0;1.0;0.0;Kinestetik
+Ris* Aul** Put**;0.0001;0.9999;0.0;Kinestetik
+Ris* Aul** Put**;0.0;1.0;0.0;Kinestetik
+Abe*** Ari****;0.0;0.0;1.0;Visual
+Abe*** Ari****;0.0016;0.0;0.9983;Visual
+Abe*** Ari****;0.0004;0.0002;0.9994;Visual
+Abe*** Ari****;0.0001;0.0001;0.9998;Visual
+Abe*** Ari****;0.0004;0.0;0.9996;Visual
+Abu Yed** Al Hud*;0.0;0.0;1.0;Visual
+Abu Yed** Al Hud*;0.0;0.0;1.0;Visual
+Abu Yed** Al Hud*;0.0;0.0;1.0;Visual
+Abu Yed** Al Hud*;0.0;0.0;1.0;Visual
+Abu Yed** Al Hud*;0.0;0.0;1.0;Visual
+Ali*** Sab*** Ras**;0.0;0.0;1.0;Visual
+Ali*** Sab*** Ras**;0.0;0.0;1.0;Visual
+Ali*** Sab*** Ras**;0.0;0.0;1.0;Visual
+Ali*** Sab*** Ras**;0.0;0.0;1.0;Visual
+Ali*** Sab*** Ras**;0.0;0.0;1.0;Visual
+Ana Mir***** Nis**;0.0;0.0;1.0;Visual
+Ana Mir***** Nis**;0.0;0.0;1.0;Visual
+Ana Mir***** Nis**;0.0;0.0003;0.9997;Visual
+Ana Mir***** Nis**;0.0;0.0;1.0;Visual
+Ana Mir***** Nis**;0.0;0.0;1.0;Visual
+Bel**** Sas****;0.0;0.0004;0.9996;Visual
+Bel**** Sas****;0.0;0.0006;0.9994;Visual
+Bel**** Sas****;0.0;0.0001;0.9999;Visual
+Bel**** Sas****;0.0001;0.0075;0.9924;Visual
+Bel**** Sas****;0.0;0.0;1.0;Visual
+Cah**** Rac*** Mut*****;0.0;0.0;1.0;Visual
+Cah**** Rac*** Mut*****;0.0;0.0;1.0;Visual
+Cah**** Rac*** Mut*****;0.0;0.0;1.0;Visual
+Cah**** Rac*** Mut*****;0.0;0.0;1.0;Visual
+Cah**** Rac*** Mut*****;0.0;0.0016;0.9984;Visual
+Chi** Feb** Ame*** Put**;0.0;0.0;1.0;Visual
+Chi** Feb** Ame*** Put**;0.0;0.0;1.0;Visual
+Chi** Feb** Ame*** Put**;0.0;0.0;1.0;Visual
+Chi** Feb** Ame*** Put**;0.0;0.0;1.0;Visual
+Chi** Feb** Ame*** Put**;0.0;0.0;1.0;Visual
+Cit** Dew* Ang******;0.0;0.0;1.0;Visual
+Cit** Dew* Ang******;0.0003;0.0;0.9997;Visual
+Cit** Dew* Ang******;0.0001;0.0;0.9999;Visual
+Cit** Dew* Ang******;0.0;0.0;1.0;Visual
+Cit** Dew* Ang******;0.0;0.0;1.0;Visual
+Eli** Dwi Per******;0.0122;0.0;0.9878;Visual
+Eli** Dwi Per******;0.0003;0.0008;0.9989;Visual
+Eli** Dwi Per******;0.0031;0.0;0.9969;Visual
+Eli** Dwi Per******;0.0;0.0;1.0;Visual
+Eli** Dwi Per******;0.0;0.0;1.0;Visual
+Fir**** Nis**** Zul**;0.0;0.0;1.0;Visual
+Fir**** Nis**** Zul**;0.0;0.0;1.0;Visual
+Fir**** Nis**** Zul**;0.0;0.0;1.0;Visual
+Fir**** Nis**** Zul**;0.0;0.0;1.0;Visual
+Fir**** Nis**** Zul**;0.0;0.0;1.0;Visual
+Fri*** Ram* Ask*;0.0002;0.0;0.9998;Visual
+Fri*** Ram* Ask*;0.0014;0.0001;0.9985;Visual
+Fri*** Ram* Ask*;0.0001;0.0;0.9999;Visual
+Fri*** Ram* Ask*;0.0;0.0;1.0;Visual
+Fri*** Ram* Ask*;0.0001;0.0;0.9999;Visual
+Isl* Far** Ama****;0.0;0.0;1.0;Visual
+Isl* Far** Ama****;0.0;0.0318;0.9682;Visual
+Isl* Far** Ama****;0.0;0.0001;0.9999;Visual
+Isl* Far** Ama****;0.0;0.0006;0.9994;Visual
+Isl* Far** Ama****;0.0;0.0001;0.9999;Visual
+Lai** Aud****;0.0;0.0;1.0;Visual
+Lai** Aud****;0.0;0.0;1.0;Visual
+Lai** Aud****;0.0;0.0;1.0;Visual
+Lai** Aud****;0.0001;0.0;0.9999;Visual
+Lai** Aud****;0.0001;0.0;0.9999;Visual
+Muh**** And* Pra*****;0.0;0.0;1.0;Visual
+Muh**** And* Pra*****;0.011;0.0005;0.9884;Visual
+Muh**** And* Pra*****;0.0001;0.2036;0.7963;Visual
+Muh**** And* Pra*****;0.0;0.0;1.0;Visual
+Muh**** And* Pra*****;0.0;0.0001;0.9999;Visual
+Muh**** Ari* Sap****;0.0;0.0;1.0;Visual
+Muh**** Ari* Sap****;0.0;0.0;1.0;Visual
+Muh**** Ari* Sap****;0.0;0.0;1.0;Visual
+Muh**** Ari* Sap****;0.0;0.0;1.0;Visual
+Muh**** Ari* Sap****;0.0;0.0;1.0;Visual
+Muh***** 'Ai** Rif**;0.0;0.0;1.0;Visual
+Muh***** 'Ai** Rif**;0.0;0.0;1.0;Visual
+Muh***** 'Ai** Rif**;0.0;0.0013;0.9987;Visual
+Muh***** 'Ai** Rif**;0.0;0.0;1.0;Visual
+Muh***** 'Ai** Rif**;0.0;0.0;1.0;Visual
+Muh***** Gha***** Dhi** Add**;0.0;0.0;1.0;Visual
+Muh***** Gha***** Dhi** Add**;0.0;0.0;1.0;Visual
+Muh***** Gha***** Dhi** Add**;0.0;0.0;1.0;Visual
+Muh***** Gha***** Dhi** Add**;0.0004;0.0;0.9996;Visual
+Muh***** Gha***** Dhi** Add**;0.0;0.0;1.0;Visual
+Muh***** Haf*** Dzi***;0.0;0.0;1.0;Visual
+Muh***** Haf*** Dzi***;0.0005;0.0;0.9995;Visual
+Muh***** Haf*** Dzi***;0.0;0.0;1.0;Visual
+Muh***** Haf*** Dzi***;0.0;0.0;1.0;Visual
+Muh***** Haf*** Dzi***;0.002;0.0;0.998;Visual
+Muh***** Mau**** Fer********;0.0;0.0;1.0;Visual
+Muh***** Mau**** Fer********;0.0;0.0;1.0;Visual
+Muh***** Mau**** Fer********;0.0;0.0;1.0;Visual
+Muh***** Mau**** Fer********;0.0;0.0;1.0;Visual
+Muh***** Mau**** Fer********;0.0;0.0;1.0;Visual
+Muh***** Raf** Irs*****;0.0008;0.0003;0.9989;Visual
+Muh***** Raf** Irs*****;0.0;0.0;1.0;Visual
+Muh***** Raf** Irs*****;0.0005;0.0006;0.9989;Visual
+Muh***** Raf** Irs*****;0.0;0.0;1.0;Visual
+Muh***** Raf** Irs*****;0.0;0.0;1.0;Visual
+Muh***** Riz** Mau****;0.0;0.0;1.0;Visual
+Muh***** Riz** Mau****;0.0006;0.0;0.9994;Visual
+Muh***** Riz** Mau****;0.0002;0.0;0.9998;Visual
+Muh***** Riz** Mau****;0.0009;0.0;0.9991;Visual
+Muh***** Riz** Mau****;0.0;0.0;0.9999;Visual
+Muk***** Kho**** Ana*;0.0;0.0;1.0;Visual
+Muk***** Kho**** Ana*;0.0;0.0;1.0;Visual
+Muk***** Kho**** Ana*;0.0;0.0;1.0;Visual
+Muk***** Kho**** Ana*;0.0;0.0;1.0;Visual
+Muk***** Kho**** Ana*;0.0;0.0;1.0;Visual
+Myi**** Naf**** Ayu Ram******;0.0;0.0;1.0;Visual
+Myi**** Naf**** Ayu Ram******;0.0;0.0001;0.9999;Visual
+Myi**** Naf**** Ayu Ram******;0.0;0.0;1.0;Visual
+Myi**** Naf**** Ayu Ram******;0.0;0.0;1.0;Visual
+Myi**** Naf**** Ayu Ram******;0.0;0.0;1.0;Visual
+Nan*** Nur**** Pra****;0.0001;0.0;0.9999;Visual
+Nan*** Nur**** Pra****;0.1182;0.0;0.8818;Visual
+Nan*** Nur**** Pra****;0.0002;0.0;0.9998;Visual
+Nan*** Nur**** Pra****;0.005;0.0;0.995;Visual
+Nan*** Nur**** Pra****;0.0001;0.0;0.9999;Visual
+Nur Lai***** Mut*******;0.0;0.0;1.0;Visual
+Nur Lai***** Mut*******;0.0;0.0;1.0;Visual
+Nur Lai***** Mut*******;0.0;0.0;1.0;Visual
+Nur Lai***** Mut*******;0.0;0.0;1.0;Visual
+Nur Lai***** Mut*******;0.0;0.0;1.0;Visual
+Okt* Vil****;0.0;0.0001;0.9999;Visual
+Okt* Vil****;0.0;0.0;1.0;Visual
+Okt* Vil****;0.0;0.0;1.0;Visual
+Okt* Vil****;0.0003;0.0001;0.9996;Visual
+Okt* Vil****;0.0;0.0;1.0;Visual
+Sal** Al Yas*** Nab***;0.0;0.0;1.0;Visual
+Sal** Al Yas*** Nab***;0.0;0.0;1.0;Visual
+Sal** Al Yas*** Nab***;0.0;0.0;1.0;Visual
+Sal** Al Yas*** Nab***;0.0;0.0001;0.9999;Visual
+Sal** Al Yas*** Nab***;0.0;0.0;1.0;Visual
+Sil*** Okt******;0.0;0.0;1.0;Visual
+Sil*** Okt******;0.0;0.0;1.0;Visual
+Sil*** Okt******;0.0;0.0002;0.9997;Visual
+Sil*** Okt******;0.0;0.0;1.0;Visual
+Sil*** Okt******;0.0;0.0;1.0;Visual
+Sin**** Dew* Rah******;0.0;0.0;1.0;Visual
+Sin**** Dew* Rah******;0.0;0.0;1.0;Visual
+Sin**** Dew* Rah******;0.0;0.0;1.0;Visual
+Sin**** Dew* Rah******;0.0;0.0;1.0;Visual
+Sin**** Dew* Rah******;0.0;0.0;1.0;Visual
+Sit* Fat****** Khu***;0.0;0.0;1.0;Visual
+Sit* Fat****** Khu***;0.0;0.0;1.0;Visual
+Sit* Fat****** Khu***;0.0;0.0;1.0;Visual
+Sit* Fat****** Khu***;0.0;0.0;1.0;Visual
+Sit* Fat****** Khu***;0.0;0.0;1.0;Visual
+Sit* Mau**** Nur*******;0.0;0.0;1.0;Visual
+Sit* Mau**** Nur*******;0.0;0.0;1.0;Visual
+Sit* Mau**** Nur*******;0.0;0.0;1.0;Visual
+Sit* Mau**** Nur*******;0.0;0.0;1.0;Visual
+Sit* Mau**** Nur*******;0.0;0.0;1.0;Visual
+Sof* Nur Cah*********;0.0;0.0;1.0;Visual
+Sof* Nur Cah*********;0.0;0.0;1.0;Visual
+Sof* Nur Cah*********;0.0;0.0;1.0;Visual
+Sof* Nur Cah*********;0.0;0.0;1.0;Visual
+Sof* Nur Cah*********;0.0;0.0;1.0;Visual
+Sur*** Sya** Asr***;0.0;0.0;1.0;Visual
+Sur*** Sya** Asr***;0.0;0.0;1.0;Visual
+Sur*** Sya** Asr***;0.0;0.0;1.0;Visual
+Sur*** Sya** Asr***;0.0001;0.0;0.9999;Visual
+Sur*** Sya** Asr***;0.0;0.0;1.0;Visual
+Van** Nas*** Zan******;0.0;0.0;1.0;Visual
+Van** Nas*** Zan******;0.0;0.0;1.0;Visual
+Van** Nas*** Zan******;0.0;0.0;1.0;Visual
+Van** Nas*** Zan******;0.0;0.0;1.0;Visual
+Van** Nas*** Zan******;0.0;0.0;1.0;Visual
+Yun*** Ang***** Lis**;0.0;0.0;1.0;Visual
+Yun*** Ang***** Lis**;0.0;0.0;1.0;Visual
+Yun*** Ang***** Lis**;0.0;0.0;1.0;Visual
+Yun*** Ang***** Lis**;0.0;0.0;1.0;Visual
+Yun*** Ang***** Lis**;0.0;0.0;1.0;Visual
+Zyv* Nau** Izz***;0.0;0.0;1.0;Visual
+Zyv* Nau** Izz***;0.0;0.0;1.0;Visual
+Zyv* Nau** Izz***;0.0;0.0;1.0;Visual
+Zyv* Nau** Izz***;0.0;0.0;1.0;Visual
+Zyv* Nau** Izz***;0.0;0.0;1.0;Visual
+Adr* Put** Mon***;0.0;0.0;1.0;Visual
+Adr* Put** Mon***;0.0;0.0;1.0;Visual
+Adr* Put** Mon***;0.0;0.0;1.0;Visual
+Adr* Put** Mon***;0.0001;0.0;0.9999;Visual
+Adr* Put** Mon***;0.0;0.0;1.0;Visual
+Ahm** Had* Mau****;0.0;0.0;1.0;Visual
+Ahm** Had* Mau****;0.0;0.0;1.0;Visual
+Ahm** Had* Mau****;0.0;0.0;1.0;Visual
+Ahm** Had* Mau****;0.0;0.0;1.0;Visual
+Ahm** Had* Mau****;0.0;0.0;1.0;Visual
+Ahm** Kho*** Sya***;0.0;0.0;1.0;Visual
+Ahm** Kho*** Sya***;0.0;0.0;1.0;Visual
+Ahm** Kho*** Sya***;0.0;0.0;1.0;Visual
+Ahm** Kho*** Sya***;0.0;0.0;1.0;Visual
+Ahm** Kho*** Sya***;0.0015;0.0;0.9985;Visual
+Ahm** Rey**** Nab**** Mau****;0.0;0.0;1.0;Visual
+Ahm** Rey**** Nab**** Mau****;0.0;0.0;1.0;Visual
+Ahm** Rey**** Nab**** Mau****;0.0;0.0;1.0;Visual
+Ahm** Rey**** Nab**** Mau****;0.0;0.0;1.0;Visual
+Ahm** Rey**** Nab**** Mau****;0.0;0.0;1.0;Visual
+Ahm** Sir**** Muj***** Al Kha****;0.0;0.0;1.0;Visual
+Ahm** Sir**** Muj***** Al Kha****;0.0;0.0;1.0;Visual
+Ahm** Sir**** Muj***** Al Kha****;0.0;0.0;1.0;Visual
+Ahm** Sir**** Muj***** Al Kha****;0.0;0.0;1.0;Visual
+Ahm** Sir**** Muj***** Al Kha****;0.0;0.0;1.0;Visual
+Aje** Saf**** Sep***;0.0;0.0;1.0;Visual
+Aje** Saf**** Sep***;0.0;0.0;1.0;Visual
+Aje** Saf**** Sep***;0.0;0.0;1.0;Visual
+Aje** Saf**** Sep***;0.0002;0.0;0.9998;Visual
+Aje** Saf**** Sep***;0.0;0.0;1.0;Visual
+Ang****** Ayu**** Pri****;0.0;0.0;1.0;Visual
+Ang****** Ayu**** Pri****;0.0;0.0;1.0;Visual
+Ang****** Ayu**** Pri****;0.0;0.0;1.0;Visual
+Ang****** Ayu**** Pri****;0.0;0.0;1.0;Visual
+Ang****** Ayu**** Pri****;0.0;0.0;1.0;Visual
+Axe* Vin* And********;0.0;0.0;1.0;Visual
+Axe* Vin* And********;0.0;0.0;1.0;Visual
+Axe* Vin* And********;0.0;0.0;1.0;Visual
+Axe* Vin* And********;0.0007;0.0;0.9993;Visual
+Axe* Vin* And********;0.0001;0.0;0.9999;Visual
+Cho**** Nis*;0.0;0.0;1.0;Visual
+Cho**** Nis*;0.0;0.0;1.0;Visual
+Cho**** Nis*;0.0;0.0;1.0;Visual
+Cho**** Nis*;0.0;0.0;1.0;Visual
+Cho**** Nis*;0.0;0.0;1.0;Visual
+Des** Pra**** Aul*******;0.0;0.0;1.0;Visual
+Des** Pra**** Aul*******;0.0;0.0;1.0;Visual
+Des** Pra**** Aul*******;0.0;0.0;1.0;Visual
+Des** Pra**** Aul*******;0.0;0.0;1.0;Visual
+Des** Pra**** Aul*******;0.0;0.0;1.0;Visual
+Des**** Mah***** Put**;0.0;0.0003;0.9997;Visual
+Des**** Mah***** Put**;0.0;0.0005;0.9995;Visual
+Des**** Mah***** Put**;0.0;0.0;1.0;Visual
+Des**** Mah***** Put**;0.0;0.0061;0.9939;Visual
+Des**** Mah***** Put**;0.0001;0.0013;0.9986;Visual
+Els* Lai** Khu**** Ram******;0.0;0.0002;0.9998;Visual
+Els* Lai** Khu**** Ram******;0.0;0.0;1.0;Visual
+Els* Lai** Khu**** Ram******;0.0;0.0;1.0;Visual
+Els* Lai** Khu**** Ram******;0.0;0.0;0.9999;Visual
+Els* Lai** Khu**** Ram******;0.0;0.0;1.0;Visual
+Fir**** Bin**** Bra******;0.0;0.0;1.0;Visual
+Fir**** Bin**** Bra******;0.0;0.0;1.0;Visual
+Fir**** Bin**** Bra******;0.0;0.0;1.0;Visual
+Fir**** Bin**** Bra******;0.0;0.0;1.0;Visual
+Fir**** Bin**** Bra******;0.0;0.0;1.0;Visual
+Han* Var*** Put**;0.0;0.0;1.0;Visual
+Han* Var*** Put**;0.0;0.0;1.0;Visual
+Han* Var*** Put**;0.0;0.0;1.0;Visual
+Han* Var*** Put**;0.0;0.0;1.0;Visual
+Han* Var*** Put**;0.0;0.0;1.0;Visual
+Hen** Wah** Sap****;0.0038;0.0;0.9962;Visual
+Hen** Wah** Sap****;0.0;0.0;0.9999;Visual
+Hen** Wah** Sap****;0.0015;0.0;0.9985;Visual
+Hen** Wah** Sap****;0.001;0.0;0.999;Visual
+Hen** Wah** Sap****;0.0;0.0;1.0;Visual
+Hil** Yun***;0.0;0.0;1.0;Visual
+Hil** Yun***;0.0;0.0;1.0;Visual
+Hil** Yun***;0.0;0.0;1.0;Visual
+Hil** Yun***;0.0;0.0;1.0;Visual
+Hil** Yun***;0.0;0.0;1.0;Visual
+Ima* Idf* Ard*******;0.0;0.0;1.0;Visual
+Ima* Idf* Ard*******;0.0004;0.0;0.9996;Visual
+Ima* Idf* Ard*******;0.0;0.0;1.0;Visual
+Ima* Idf* Ard*******;0.0002;0.0;0.9998;Visual
+Ima* Idf* Ard*******;0.0;0.0;1.0;Visual
+Kar*** Tan**** Rid** Wib***;0.0012;0.0006;0.9982;Visual
+Kar*** Tan**** Rid** Wib***;0.0;0.0;1.0;Visual
+Kar*** Tan**** Rid** Wib***;0.0024;0.0002;0.9974;Visual
+Kar*** Tan**** Rid** Wib***;0.0004;0.0;0.9996;Visual
+Kar*** Tan**** Rid** Wib***;0.0;0.0;0.9999;Visual
+Kho***** Nur Rom******;0.0;0.0;1.0;Visual
+Kho***** Nur Rom******;0.0;0.0;1.0;Visual
+Kho***** Nur Rom******;0.0;0.0;1.0;Visual
+Kho***** Nur Rom******;0.0;0.0;1.0;Visual
+Kho***** Nur Rom******;0.0;0.0;1.0;Visual
+Lea** Fau*** Mun*;0.0;0.0;1.0;Visual
+Lea** Fau*** Mun*;0.0;0.0;1.0;Visual
+Lea** Fau*** Mun*;0.0;0.0;1.0;Visual
+Lea** Fau*** Mun*;0.0;0.0;1.0;Visual
+Lea** Fau*** Mun*;0.0;0.0;1.0;Visual
+Len* Ame*** Far****;0.0;0.0;1.0;Visual
+Len* Ame*** Far****;0.0;0.0;1.0;Visual
+Len* Ame*** Far****;0.0001;0.0;0.9999;Visual
+Len* Ame*** Far****;0.0;0.0;1.0;Visual
+Len* Ame*** Far****;0.0001;0.0;0.9999;Visual
+Mir** Ayu Put** End******;0.0;0.0;1.0;Visual
+Mir** Ayu Put** End******;0.0;0.0;1.0;Visual
+Mir** Ayu Put** End******;0.0;0.0;1.0;Visual
+Mir** Ayu Put** End******;0.0;0.0;1.0;Visual
+Mir** Ayu Put** End******;0.0;0.0;1.0;Visual
+Moh**** Faj** Mav*** Kho*******;0.0;0.0;1.0;Visual
+Moh**** Faj** Mav*** Kho*******;0.0;0.0;1.0;Visual
+Moh**** Faj** Mav*** Kho*******;0.0002;0.0;0.9997;Visual
+Moh**** Faj** Mav*** Kho*******;0.0004;0.0;0.9996;Visual
+Moh**** Faj** Mav*** Kho*******;0.0;0.0;1.0;Visual
+Muh***** Fad***** Akb**;0.0;0.0;1.0;Visual
+Muh***** Fad***** Akb**;0.0002;0.0;0.9998;Visual
+Muh***** Fad***** Akb**;0.0;0.0;1.0;Visual
+Muh***** Fad***** Akb**;0.0;0.0;1.0;Visual
+Muh***** Fad***** Akb**;0.0007;0.0;0.9993;Visual
+Muh******* Ifa***;0.0;0.0;1.0;Visual
+Muh******* Ifa***;0.0;0.0;1.0;Visual
+Muh******* Ifa***;0.0;0.0;1.0;Visual
+Muh******* Ifa***;0.0;0.0;1.0;Visual
+Muh******* Ifa***;0.0;0.0;1.0;Visual
+Nar***** Alf* Esw*** Dig** Al Ich***;0.0;0.0001;0.9999;Visual
+Nar***** Alf* Esw*** Dig** Al Ich***;0.0;0.0;1.0;Visual
+Nar***** Alf* Esw*** Dig** Al Ich***;0.0;0.0;1.0;Visual
+Nar***** Alf* Esw*** Dig** Al Ich***;0.0;0.0;1.0;Visual
+Nar***** Alf* Esw*** Dig** Al Ich***;0.0;0.0;1.0;Visual
+Nis**** Nai** Sal******;0.0;0.0;1.0;Visual
+Nis**** Nai** Sal******;0.0;0.0;1.0;Visual
+Nis**** Nai** Sal******;0.0;0.0;1.0;Visual
+Nis**** Nai** Sal******;0.0;0.0;1.0;Visual
+Nis**** Nai** Sal******;0.0;0.0;1.0;Visual
+Qey** Ram***** Ang**** Put**;0.0001;0.0;0.9999;Visual
+Qey** Ram***** Ang**** Put**;0.0048;0.0;0.9952;Visual
+Qey** Ram***** Ang**** Put**;0.0002;0.0;0.9998;Visual
+Qey** Ram***** Ang**** Put**;0.0001;0.0;0.9999;Visual
+Qey** Ram***** Ang**** Put**;0.0002;0.0;0.9998;Visual
+Rad**** Sal******* Mic***** Azi***;0.0;0.0;1.0;Visual
+Rad**** Sal******* Mic***** Azi***;0.0;0.0029;0.997;Visual
+Rad**** Sal******* Mic***** Azi***;0.0;0.0;1.0;Visual
+Rad**** Sal******* Mic***** Azi***;0.0;0.0;1.0;Visual
+Rad**** Sal******* Mic***** Azi***;0.0;0.0;1.0;Visual
+Raf*** Bel**;0.0;0.0;1.0;Visual
+Raf*** Bel**;0.0;0.0;1.0;Visual
+Raf*** Bel**;0.0;0.0001;0.9999;Visual
+Raf*** Bel**;0.0;0.0;1.0;Visual
+Raf*** Bel**;0.0;0.0;1.0;Visual
+Ris* Nur** Fad****;0.0001;0.0;0.9999;Visual
+Ris* Nur** Fad****;0.0;0.0;1.0;Visual
+Ris* Nur** Fad****;0.0;0.0;1.0;Visual
+Ris* Nur** Fad****;0.0;0.0;1.0;Visual
+Ris* Nur** Fad****;0.0;0.0003;0.9997;Visual
+Sep**** Rah*******;0.0;0.0;1.0;Visual
+Sep**** Rah*******;0.0;0.0;1.0;Visual
+Sep**** Rah*******;0.0;0.0;1.0;Visual
+Sep**** Rah*******;0.0;0.0003;0.9997;Visual
+Sep**** Rah*******;0.0;0.0;1.0;Visual
+Sit* Wul******;0.0001;0.0013;0.9986;Visual
+Sit* Wul******;0.0;0.0001;0.9999;Visual
+Sit* Wul******;0.0;0.0004;0.9996;Visual
+Sit* Wul******;0.0;0.0;1.0;Visual
+Sit* Wul******;0.0;0.0001;0.9999;Visual
+Suc* Rah******;0.0;0.0079;0.9921;Visual
+Suc* Rah******;0.0033;0.0183;0.9784;Visual
+Suc* Rah******;0.0014;0.0001;0.9985;Visual
+Suc* Rah******;0.0;0.0;1.0;Visual
+Suc* Rah******;0.0003;0.0062;0.9935;Visual
+Yul*** Ris** Fer*****;0.0;0.0;1.0;Visual
+Yul*** Ris** Fer*****;0.0;0.0;1.0;Visual
+Yul*** Ris** Fer*****;0.0;0.0;1.0;Visual
+Yul*** Ris** Fer*****;0.0;0.0;1.0;Visual
+Yul*** Ris** Fer*****;0.0;0.0;1.0;Visual
+Zul** Riz**** Put**;0.0001;0.0;0.9999;Visual
+Zul** Riz**** Put**;0.0;0.0;1.0;Visual
+Zul** Riz**** Put**;0.0;0.0;1.0;Visual
+Zul** Riz**** Put**;0.0;0.0;1.0;Visual
+Zul** Riz**** Put**;0.0;0.0;1.0;Visual
+Ach*** Pri** Set*****;0.0;0.0002;0.9998;Visual
+Ach*** Pri** Set*****;0.0;0.0;1.0;Visual
+Ach*** Pri** Set*****;0.0;0.0;1.0;Visual
+Ach*** Pri** Set*****;0.0;0.0;1.0;Visual
+Ach*** Pri** Set*****;0.0001;0.0;0.9999;Visual
+Jih* Mua*** Fan* Apr*****;0.0;0.0;1.0;Visual
+Jih* Mua*** Fan* Apr*****;0.0;0.0;1.0;Visual
+Jih* Mua*** Fan* Apr*****;0.0002;0.0;0.9998;Visual
+Jih* Mua*** Fan* Apr*****;0.0;0.0;1.0;Visual
+Jih* Mua*** Fan* Apr*****;0.0;0.0;1.0;Visual
+Kya**** Ros**** Put*** Nug****;0.0;0.0;1.0;Visual
+Kya**** Ros**** Put*** Nug****;0.0;0.0;1.0;Visual
+Kya**** Ros**** Put*** Nug****;0.0;0.0;1.0;Visual
+Kya**** Ros**** Put*** Nug****;0.0;0.0;1.0;Visual
+Kya**** Ros**** Put*** Nug****;0.0;0.0;1.0;Visual
+Muh***** Wha****** Akm**;0.0;0.0;1.0;Visual
+Muh***** Wha****** Akm**;0.0;0.0;1.0;Visual
+Muh***** Wha****** Akm**;0.0;0.0;1.0;Visual
+Muh***** Wha****** Akm**;0.0;0.0;1.0;Visual
+Muh***** Wha****** Akm**;0.0;0.0;1.0;Visual
+Sov*** Han***** Nur Rah**;0.0;0.0;1.0;Visual
+Sov*** Han***** Nur Rah**;0.0;0.0;1.0;Visual
+Sov*** Han***** Nur Rah**;0.0;0.0;1.0;Visual
+Sov*** Han***** Nur Rah**;0.0;0.0;1.0;Visual
+Sov*** Han***** Nur Rah**;0.0;0.0;1.0;Visual
+Tsa*** Azk* Qut***** Nid*;0.0;0.0004;0.9996;Visual
+Tsa*** Azk* Qut***** Nid*;0.0;0.0;1.0;Visual
+Tsa*** Azk* Qut***** Nid*;0.0;0.0001;0.9999;Visual
+Tsa*** Azk* Qut***** Nid*;0.0;0.0003;0.9997;Visual
+Tsa*** Azk* Qut***** Nid*;0.0;0.0;1.0;Visual
